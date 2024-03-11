@@ -2,6 +2,8 @@
 
 This repo holds all the code written as part of the Ned algorithm analysis. 
 
+Presentation with current state of results can be viewed [here](https://docs.google.com/presentation/d/1Fog-udJjPj5mkDrx2JtumdPGhOl6K4is_4v9gRMVYAg/edit?usp=sharing)
+
 **au_pipeline.py** converts the SAPCR data into the proper format for the Ned algorithm.
 
 **analysis.ipynb** is mostly unused now, it holds the analysis done before the segmentation methodology was developed. It is kept here just in case but shouldn't be necessary for any future analysis.
